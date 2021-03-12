@@ -32,5 +32,5 @@
 
 
 ## 广告
-> <a target="_blank" href="http://lwdh.us">老王导航</a>
+> <a target="_blank" href="http://lwdh.us" target="_blank">老王导航</a>
 

@@ -5,7 +5,7 @@
 <img alt="蚯蚓机场logo" src="https://dilong.us/assets/home/img/logo.png" width="88">
 </p>
 
-# [蚯蚓加速器 - 跨越长城，走向世界](https://qiuyin.xyz)
+# [蚯蚓加速器 - 跨越长城，走向世界](http://qiuyin.me)
 
 > 建议收藏此页面防止失联或者丢失 
 

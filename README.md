@@ -31,7 +31,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS7heWPr+iuv+mXruOAkOWumOe9kXFpdXlpbi5p
 
 手机端可以扫码下面的二维码添加
 
-<img alt="蚯蚓机场" src="https://user-images.githubusercontent.com/80533555/225789994-85572af6-f856-44f3-b791-ae78cc64e32b.png" width="88">
+<img alt="蚯蚓机场" src="https://user-images.githubusercontent.com/80533555/225789994-85572af6-f856-44f3-b791-ae78cc64e32b.png">
 
 ## 客户端下载
 
